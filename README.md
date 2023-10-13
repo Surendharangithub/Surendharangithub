@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full stack development<br>👯 I’m looking to collaborate on Website related Software company<br>🤝 I’m looking for help to the company website that are dull in User Interfaces.<br>🌱 I’m currently learning Figma, Photoshop<br>💬 Ask me about Web development<br>⚡ Fun fact - Music Love
+🔭 I’m currently working on Full stack development<br>👯 I’m looking to collaborate on Website related Software company<br>🤝 I’m looking for help to the company website that are dull in User Interfaces.<br>🌱 I’m currently learning Figma, Photoshop<br>💬 Ask me about Web development<br>⚡ Fun fact - Music Lover
 
 
 ## 🌐 Socials:
